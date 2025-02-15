@@ -61,3 +61,8 @@ The Random Forest Classifier achieved the highest accuracy, demonstrating its ef
 
 Conclusion
 This project highlights the utility of machine learning algorithms in predicting CAD with high accuracy. The Random Forest Classifier proved to be the most effective model among those evaluated. Future work includes expanding the dataset and refining preprocessing techniques to further improve prediction accuracy.
+
+
+## 🌐 Live App Link  
+🎯 Check out the deployed app: [Coronary Risk Check](https://coronary-risk-check.streamlit.app/)
+
